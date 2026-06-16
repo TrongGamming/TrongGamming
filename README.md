@@ -3,8 +3,11 @@
 </div>
 
 <h3 align="center">
-  🚀 Crafting scalable backends, optimized game engines, and full-stack solutions.
+  🚀 Kỹ sư phần mềm chuyên xây dựng hệ thống Backend mở rộng, tối ưu Game Engine, và giải pháp Fullstack.
 </h3>
+<h4 align="center">
+  Crafting scalable backends, optimized game engines, and full-stack solutions.
+</h4>
 
 <div align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -13,6 +16,80 @@
 </div>
 
 <br/>
+
+<details open>
+<summary><h2>🇻🇳 Tiếng Việt</h2></summary>
+
+## 👨‍💻 Về Tôi
+
+Tôi là một **Kỹ sư Phần mềm** đam mê xây dựng các hệ thống phần mềm mạnh mẽ và hiệu năng cao. Chuyên môn của tôi trải dài từ lập trình hệ thống cấp thấp (C/C++), phát triển backend doanh nghiệp (Java), đến các ứng dụng web full-stack hiện đại.
+
+- 🔭 Hiện tại tôi đang làm việc về **Tối ưu hóa Game Engine** & **Hệ thống Quản lý GIS**.
+- 🌱 Tôi luôn không ngừng học hỏi chuyên sâu về **Cấu trúc Dữ liệu & Giải thuật (DSA)** và khám phá **Thiết kế Hệ thống (System Design)**.
+- 💡 Tôi thích giải quyết các thách thức kiến trúc phức tạp và viết code sạch, dễ bảo trì.
+- ⚡ Fun fact: Tôi thích đào sâu vào quản lý bộ nhớ cũng nhiều như việc tôi thích thiết kế các giao diện người dùng bóng bẩy!
+
+---
+
+## 🛠️ Công Nghệ & Kỹ Năng
+
+### Ngôn ngữ lập trình
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
+
+### Frameworks & Thư viện
+<p align="left">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+</p>
+
+### Công cụ & Cơ sở dữ liệu
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 🏆 Dự Án Tiêu Biểu
+
+Dưới đây là một số dự án cốt lõi tôi đã phát triển, thể hiện khả năng giải quyết các thách thức kỹ thuật đa dạng.
+
+### 🎮 [Ultima Online Remake (C++)](https://github.com/TrongGamming/Ultima-Online-Remake-CPP)
+> Engine game hiệu năng cao với kiến trúc client/server, nhằm mục đích hồi sinh lối chơi MMORPG cổ điển bằng C++ hiện đại.
+* **Trọng tâm:** Quản lý Bộ nhớ, Lập trình Đồng thời, Lập trình Socket, Rendering Engine.
+* **Công nghệ:** `C++17`, `CMake`, `OpenGL`
+
+### 🌍 [GIS Store Management System](https://github.com/TrongGamming/gis-oss-frontend) | [Backend](https://github.com/TrongGamming/gis-oss-backend)
+> Hệ thống thông tin địa lý toàn diện để quản lý dữ liệu cửa hàng phân tán, tích hợp phân tích không gian thời gian thực và dịch vụ dựa trên vị trí.
+* **Trọng tâm:** Kiến trúc Microservices, Truy vấn Cơ sở dữ liệu Không gian, Bản đồ Tương tác.
+* **Công nghệ:** `Node.js`/`Java`, `React`/`Vue`, `PostGIS`
+
+### 🏭 [Java Warehouse Management System (WMS)](https://github.com/TrongGamming/wms-java)
+> Ứng dụng cấp doanh nghiệp dùng để tự động hóa hoạt động kho hàng, theo dõi hàng tồn kho và logistics chuỗi cung ứng.
+* **Trọng tâm:** Thiết kế Hướng đối tượng, RESTful APIs, Logic Nghiệp vụ Phức tạp, Database Transactions.
+* **Công nghệ:** `Java`, `Spring Boot`, `MySQL`, `Hibernate`
+
+### 🧠 [C++ Data Structures & Algorithms](https://github.com/TrongGamming/CPP-Data-Structures-Algorithms)
+> Kho lưu trữ toàn diện về các cấu trúc dữ liệu tiêu chuẩn được tối ưu hóa và các triển khai giải quyết vấn đề bằng thuật toán.
+* **Trọng tâm:** Tối ưu hóa Độ phức tạp Thời gian & Không gian, Quy hoạch Động, Thuật toán Đồ thị.
+* **Công nghệ:** `C++`
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>🇬🇧 English</h2></summary>
 
 ## 👨‍💻 About Me
 
@@ -78,6 +155,8 @@ Here are some of the key projects I've developed, showcasing my ability to tackl
 * **Focus:** Time & Space Complexity Optimization, Dynamic Programming, Graph Algorithms.
 * **Tech:** `C++`
 
+</details>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -94,5 +173,6 @@ Here are some of the key projects I've developed, showcasing my ability to tackl
 
 ---
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together!</i><br>
+  <i>Hãy kết nối và cùng nhau xây dựng những hệ thống tuyệt vời!</i>
 </p>
