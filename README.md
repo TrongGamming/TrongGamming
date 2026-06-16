@@ -31,12 +31,35 @@ Mục tiêu của tôi là áp dụng những kiến thức nền tảng đã h�
 
 ## 🛠️ Kỹ Năng Kỹ Thuật
 
-Là một sinh viên/thực tập sinh, tôi đang tập trung nắm vững nền tảng và bước đầu làm quen với các công cụ phổ biến:
+Là một sinh viên/thực tập sinh, tôi đang tập trung nắm vững kiến thức nền tảng và bước đầu làm quen với các công nghệ phổ biến trong ngành:
 
-*   **Ngôn ngữ lập trình:** C/C++, Java, JavaScript/TypeScript.
-*   **Web Frameworks:** Node.js, Spring Boot (Cơ bản), React/Vue (Làm quen).
-*   **Cơ sở dữ liệu:** MySQL, PostgreSQL (Cơ bản về query và thiết kế schema).
-*   **Công cụ & Quy trình:** Git/GitHub, Docker (Mức độ tìm hiểu), kiến thức về RESTful API.
+<p align="left">
+  <strong>💻 Ngôn ngữ lập trình:</strong><br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="left">
+  <strong>🌐 Web Frameworks & Libraries:</strong><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+</p>
+
+<p align="left">
+  <strong>🗄️ Database & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p align="left">
+  <strong>🧠 Kỹ năng cốt lõi:</strong> Tư duy Thuật toán (DSA), Lập trình Hướng đối tượng (OOP), Cấu trúc dữ liệu, Clean Code, cơ bản về RESTful API.
+</p>
 
 ---
 
@@ -85,12 +108,35 @@ My primary goal is to apply my foundational knowledge (Data Structures & Algorit
 
 ## 🛠️ Technical Skills
 
-As a student/intern, I am focusing on mastering the fundamentals and getting familiar with popular tools:
+As a student/intern, I am focusing on mastering the fundamentals and getting familiar with popular tools in the industry:
 
-*   **Programming Languages:** C/C++, Java, JavaScript/TypeScript.
-*   **Web Frameworks:** Node.js, Spring Boot (Basics), React/Vue (Familiar).
-*   **Databases:** MySQL, PostgreSQL (Basic queries and schema design).
-*   **Tools & Processes:** Git/GitHub, Docker (Exploring), understanding of RESTful API concepts.
+<p align="left">
+  <strong>💻 Programming Languages:</strong><br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="left">
+  <strong>🌐 Web Frameworks & Libraries:</strong><br>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+</p>
+
+<p align="left">
+  <strong>🗄️ Database & Tools:</strong><br>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<p align="left">
+  <strong>🧠 Core Skills:</strong> Algorithms (DSA), Object-Oriented Programming (OOP), Data Structures, Clean Code, RESTful API basics.
+</p>
 
 ---
 
