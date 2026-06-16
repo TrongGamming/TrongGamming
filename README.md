@@ -1,18 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Trong!%20%F0%9F%91%8B&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20Fullstack&descAlignY=51&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Trong!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Sinh%20vi%C3%AAn%20CNTT%20%7C%20Th%E1%BB%B1c%20t%E1%BA%ADp%20sinh%20IT%20%7C%20Backend%20%26%20C%2B%2B&descAlignY=51&descAlign=62" alt="Header Banner" />
 </div>
 
 <h3 align="center">
-  🚀 Kỹ sư phần mềm chuyên xây dựng hệ thống Backend mở rộng, tối ưu Game Engine, và giải pháp Fullstack.
+  🌱 Sinh viên CNTT đam mê lập trình, mong muốn học hỏi và phát triển trong môi trường thực tế.
 </h3>
-<h4 align="center">
-  Crafting scalable backends, optimized game engines, and full-stack solutions.
-</h4>
 
 <div align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br/>
@@ -22,67 +18,50 @@
 
 ## 👨‍💻 Về Tôi
 
-Tôi là một **Kỹ sư Phần mềm** đam mê xây dựng các hệ thống phần mềm mạnh mẽ và hiệu năng cao. Chuyên môn của tôi trải dài từ lập trình hệ thống cấp thấp (C/C++), phát triển backend doanh nghiệp (Java), đến các ứng dụng web full-stack hiện đại.
+Xin chào! Tôi là Trọng, một sinh viên ngành Công nghệ Thông tin đang tìm kiếm cơ hội thực tập (Internship) vị trí **Software Engineer / Backend Developer**. 
 
-- 🔭 Hiện tại tôi đang làm việc về **Tối ưu hóa Game Engine** & **Hệ thống Quản lý GIS**.
-- 🌱 Tôi luôn không ngừng học hỏi chuyên sâu về **Cấu trúc Dữ liệu & Giải thuật (DSA)** và khám phá **Thiết kế Hệ thống (System Design)**.
-- 💡 Tôi thích giải quyết các thách thức kiến trúc phức tạp và viết code sạch, dễ bảo trì.
-- ⚡ Fun fact: Tôi thích đào sâu vào quản lý bộ nhớ cũng nhiều như việc tôi thích thiết kế các giao diện người dùng bóng bẩy!
+Mục tiêu của tôi là áp dụng những kiến thức nền tảng đã học (Cấu trúc dữ liệu & Giải thuật, OOP) vào các dự án thực tế, làm quen với quy trình phát triển phần mềm chuyên nghiệp (Git workflow, Clean Code) và đóng góp giá trị cho công ty.
 
----
-
-## 🛠️ Công Nghệ & Kỹ Năng
-
-### Ngôn ngữ lập trình
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
-
-### Frameworks & Thư viện
-<p align="left">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-</p>
-
-### Công cụ & Cơ sở dữ liệu
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- 📚 Hiện tại tôi đang tìm hiểu sâu về: **Backend Development (Java/Node.js)** và **C++ cơ bản đến nâng cao**.
+- 🌱 Không ngừng luyện tập tư duy logic qua việc giải quyết các bài toán thuật toán.
+- 👯 Rất sẵn lòng tiếp thu feedback từ mentor và các anh chị đi trước để hoàn thiện bản thân mỗi ngày.
+- 🎯 Định hướng: Trở thành một lập trình viên có tư duy hệ thống tốt và khả năng giải quyết vấn đề độc lập.
 
 ---
 
-## 🏆 Dự Án Tiêu Biểu
+## 🛠️ Kỹ Năng Kỹ Thuật
 
-Dưới đây là một số dự án cốt lõi tôi đã phát triển, thể hiện khả năng giải quyết các thách thức kỹ thuật đa dạng.
+Là một sinh viên/thực tập sinh, tôi đang tập trung nắm vững nền tảng và bước đầu làm quen với các công cụ phổ biến:
 
-### 🎮 [Ultima Online Remake (C++)](https://github.com/TrongGamming/Ultima-Online-Remake-CPP)
-> Engine game hiệu năng cao với kiến trúc client/server, nhằm mục đích hồi sinh lối chơi MMORPG cổ điển bằng C++ hiện đại.
-* **Trọng tâm:** Quản lý Bộ nhớ, Lập trình Đồng thời, Lập trình Socket, Rendering Engine.
-* **Công nghệ:** `C++17`, `CMake`, `OpenGL`
+*   **Ngôn ngữ lập trình:** C/C++, Java, JavaScript/TypeScript.
+*   **Web Frameworks:** Node.js, Spring Boot (Cơ bản), React/Vue (Làm quen).
+*   **Cơ sở dữ liệu:** MySQL, PostgreSQL (Cơ bản về query và thiết kế schema).
+*   **Công cụ & Quy trình:** Git/GitHub, Docker (Mức độ tìm hiểu), kiến thức về RESTful API.
 
-### 🌍 [GIS Store Management System](https://github.com/TrongGamming/gis-oss-frontend) | [Backend](https://github.com/TrongGamming/gis-oss-backend)
-> Hệ thống thông tin địa lý toàn diện để quản lý dữ liệu cửa hàng phân tán, tích hợp phân tích không gian thời gian thực và dịch vụ dựa trên vị trí.
-* **Trọng tâm:** Kiến trúc Microservices, Truy vấn Cơ sở dữ liệu Không gian, Bản đồ Tương tác.
-* **Công nghệ:** `Node.js`/`Java`, `React`/`Vue`, `PostGIS`
+---
+
+## 🏆 Dự Án Cá Nhân / Đồ Án Môn Học
+
+Dưới đây là một số bài tập lớn và dự án cá nhân mà tôi đã đầu tư thời gian thực hiện, áp dụng các kiến thức đã học vào thực tế. Code có thể chưa hoàn hảo, nhưng thể hiện thái độ nghiêm túc và nỗ lực học hỏi của tôi:
 
 ### 🏭 [Java Warehouse Management System (WMS)](https://github.com/TrongGamming/wms-java)
-> Ứng dụng cấp doanh nghiệp dùng để tự động hóa hoạt động kho hàng, theo dõi hàng tồn kho và logistics chuỗi cung ứng.
-* **Trọng tâm:** Thiết kế Hướng đối tượng, RESTful APIs, Logic Nghiệp vụ Phức tạp, Database Transactions.
-* **Công nghệ:** `Java`, `Spring Boot`, `MySQL`, `Hibernate`
+> Đồ án thực hành xây dựng ứng dụng quản lý kho hàng cơ bản.
+* **Những gì tôi đã học được:** Thiết kế hướng đối tượng (OOP), làm việc với Java Spring Boot, thao tác cơ sở dữ liệu qua Hibernate, thiết kế RESTful API.
+* **Công nghệ:** `Java`, `Spring Boot`, `MySQL`
 
-### 🧠 [C++ Data Structures & Algorithms](https://github.com/TrongGamming/CPP-Data-Structures-Algorithms)
-> Kho lưu trữ toàn diện về các cấu trúc dữ liệu tiêu chuẩn được tối ưu hóa và các triển khai giải quyết vấn đề bằng thuật toán.
-* **Trọng tâm:** Tối ưu hóa Độ phức tạp Thời gian & Không gian, Quy hoạch Động, Thuật toán Đồ thị.
-* **Công nghệ:** `C++`
+### 🌍 [GIS Store Management System](https://github.com/TrongGamming/gis-oss-frontend) | [Backend](https://github.com/TrongGamming/gis-oss-backend)
+> Dự án tìm hiểu về hệ thống quản lý dữ liệu bản đồ đơn giản, cho phép quản lý thông tin cửa hàng phân tán.
+* **Những gì tôi đã học được:** Tư duy phân tách Frontend/Backend, truy vấn CSDL không gian cơ bản, tích hợp bản đồ trên giao diện web.
+* **Công nghệ:** `Node.js`, `React`/`Vue`, `PostGIS`
+
+### 🎮 [Ultima Online Remake (Dự án nghiên cứu C++)](https://github.com/TrongGamming/Ultima-Online-Remake-CPP)
+> Dự án cá nhân nhằm mục đích tìm hiểu về kiến trúc game server và cách quản lý bộ nhớ trong C++ thông qua việc mô phỏng lại một game cổ điển.
+* **Những gì tôi đã học được:** Quản lý bộ nhớ thủ công, lập trình socket cơ bản, hiểu hơn về vòng đời (lifecycle) của một ứng dụng liên tục (game loop).
+* **Công nghệ:** `C++`, `CMake`
+
+### 🧠 [Bài tập Cấu trúc Dữ liệu & Giải thuật (C++)](https://github.com/TrongGamming/CPP-Data-Structures-Algorithms)
+> Kho lưu trữ các bài tập thực hành DSA của tôi.
+* **Mục đích:** Nắm vững nền tảng, luyện tập tư duy tối ưu hóa thuật toán (độ phức tạp thời gian/không gian).
 
 </details>
 
@@ -93,73 +72,58 @@ Dưới đây là một số dự án cốt lõi tôi đã phát triển, thể 
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** passionate about building robust and performant software systems. My expertise spans across lower-level systems programming (C/C++), enterprise backend development (Java), and modern full-stack web applications. 
+Hello! I'm Trong, an IT student actively looking for an **Internship** position as a **Software Engineer / Backend Developer**.
 
-- 🔭 I’m currently working on **Game Engine Optimization** & **GIS Management Systems**.
-- 🌱 I’m constantly learning advanced **Data Structures & Algorithms** and exploring **System Design**.
-- 💡 I enjoy solving complex architectural challenges and writing clean, maintainable code.
-- ⚡ Fun fact: I love diving deep into memory management just as much as I enjoy designing sleek user interfaces!
+My primary goal is to apply my foundational knowledge (Data Structures & Algorithms, OOP) to real-world projects, learn professional software development workflows (Git workflow, Clean Code), and contribute value to the team.
 
----
-
-## 🛠️ Technical Arsenal
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
-
-### Technologies & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
-</p>
-
-### Tools & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- 📚 Currently diving deeper into: **Backend Development (Java/Node.js)** and **C++**.
+- 🌱 Continuously practicing logical thinking by solving algorithmic problems.
+- 👯 Eager to receive constructive feedback from mentors and senior engineers to improve myself daily.
+- 🎯 Goal: To become a developer with strong system-thinking and independent problem-solving skills.
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Technical Skills
 
-Here are some of the key projects I've developed, showcasing my ability to tackle diverse technical challenges.
+As a student/intern, I am focusing on mastering the fundamentals and getting familiar with popular tools:
 
-### 🎮 [Ultima Online Remake (C++)](https://github.com/TrongGamming/Ultima-Online-Remake-CPP)
-> A high-performance game engine and client/server architecture aimed at reviving classic MMORPG gameplay using modern C++.
-* **Focus:** Memory Management, Concurrency, Socket Programming, Rendering Engine.
-* **Tech:** `C++17`, `CMake`, `OpenGL`
+*   **Programming Languages:** C/C++, Java, JavaScript/TypeScript.
+*   **Web Frameworks:** Node.js, Spring Boot (Basics), React/Vue (Familiar).
+*   **Databases:** MySQL, PostgreSQL (Basic queries and schema design).
+*   **Tools & Processes:** Git/GitHub, Docker (Exploring), understanding of RESTful API concepts.
 
-### 🌍 [GIS Store Management System](https://github.com/TrongGamming/gis-oss-frontend) | [Backend](https://github.com/TrongGamming/gis-oss-backend)
-> A comprehensive geographic information system for managing distributed store data, featuring real-time spatial analysis and location-based services.
-* **Focus:** Microservices Architecture, Spatial Database Queries, Interactive Maps.
-* **Tech:** `Node.js`/`Java`, `React`/`Vue`, `PostGIS`
+---
+
+## 🏆 Academic & Personal Projects
+
+Below are some of my significant academic assignments and personal projects. While the code might not be perfect, they reflect my serious attitude and dedication to learning:
 
 ### 🏭 [Java Warehouse Management System (WMS)](https://github.com/TrongGamming/wms-java)
-> An enterprise-grade application for automating warehouse operations, inventory tracking, and supply chain logistics.
-* **Focus:** Object-Oriented Design, RESTful APIs, Complex Business Logic, Database Transactions.
-* **Tech:** `Java`, `Spring Boot`, `MySQL`, `Hibernate`
+> A practice project to build a basic warehouse management application.
+* **What I learned:** Object-Oriented Programming (OOP), working with Java Spring Boot, database operations via Hibernate, basic RESTful API design.
+* **Tech:** `Java`, `Spring Boot`, `MySQL`
 
-### 🧠 [C++ Data Structures & Algorithms](https://github.com/TrongGamming/CPP-Data-Structures-Algorithms)
-> A comprehensive repository of optimized standard data structures and algorithmic problem-solving implementations.
-* **Focus:** Time & Space Complexity Optimization, Dynamic Programming, Graph Algorithms.
-* **Tech:** `C++`
+### 🌍 [GIS Store Management System](https://github.com/TrongGamming/gis-oss-frontend) | [Backend](https://github.com/TrongGamming/gis-oss-backend)
+> An exploratory project on a simple map data management system to manage distributed store information.
+* **What I learned:** Frontend/Backend separation, basic spatial database queries, integrating maps on web interfaces.
+* **Tech:** `Node.js`, `React`/`Vue`, `PostGIS`
+
+### 🎮 [Ultima Online Remake (C++ Research Project)](https://github.com/TrongGamming/Ultima-Online-Remake-CPP)
+> A personal project aimed at understanding game server architecture and memory management in C++ by simulating a classic game.
+* **What I learned:** Manual memory management, basic socket programming, understanding application lifecycle (game loop).
+* **Tech:** `C++`, `CMake`
+
+### 🧠 [Data Structures & Algorithms Practice (C++)](https://github.com/TrongGamming/CPP-Data-Structures-Algorithms)
+> A repository containing my DSA practice exercises.
+* **Purpose:** Mastering fundamentals, practicing algorithm optimization (time/space complexity).
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Hoạt động trên GitHub
+
+Là một sinh viên, tôi cố gắng duy trì thói quen code đều đặn và commit rõ ràng.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TrongGamming&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Trong's GitHub stats" width="48%" />
@@ -170,9 +134,3 @@ Here are some of the key projects I've developed, showcasing my ability to tackl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongGamming&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
-
----
-<p align="center">
-  <i>Let's connect and build something amazing together!</i><br>
-  <i>Hãy kết nối và cùng nhau xây dựng những hệ thống tuyệt vời!</i>
-</p>
