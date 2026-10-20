@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="138" viewBox="0 0 405 138" role="img" aria-label="RebarInsight">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f34b7d"/><stop offset="1" stop-color="#f34b7d" stop-opacity=".25"/></linearGradient></defs>
+<rect x="1" y="1" width="403" height="136" rx="12" fill="#1a1b26" stroke="#292e42" stroke-width="2"/>
+<rect x="1" y="14" width="4" height="110" rx="2" fill="url(#a)"/>
+<text x="22" y="34" style="font:700 16px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#7aa2f7">RebarInsight</text>
+<circle cx="348.8" cy="29.5" r="5" fill="#f34b7d"/>
+<text x="383" y="34" text-anchor="end" style="font:12px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#565f89">C++</text>
+<text x="22" y="62" style="font:13.5px 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" fill="#c0caf5">AutoCAD add-on that extracts rebar quantities</text>
+<text x="22" y="81" style="font:13.5px 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" fill="#c0caf5">from drawings and exports them to Excel.</text>
+<g transform="translate(22,96)"><rect width="53" height="24" rx="12" fill="#f34b7d" fill-opacity=".14"/><text x="26.5" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#f34b7d">C++20</text></g><g transform="translate(81,96)"><rect width="39" height="24" rx="12" fill="#f34b7d" fill-opacity=".14"/><text x="19.5" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#f34b7d">MFC</text></g><g transform="translate(126,96)"><rect width="80" height="24" rx="12" fill="#f34b7d" fill-opacity=".14"/><text x="40" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#f34b7d">ObjectARX</text></g><g transform="translate(212,96)"><rect width="59" height="24" rx="12" fill="#f34b7d" fill-opacity=".14"/><text x="29.5" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#f34b7d">SQLite</text></g>
+</svg>

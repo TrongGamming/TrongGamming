@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="138" viewBox="0 0 405 138" role="img" aria-label="ManangerDish">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9b6bdf"/><stop offset="1" stop-color="#9b6bdf" stop-opacity=".25"/></linearGradient></defs>
+<rect x="1" y="1" width="403" height="136" rx="12" fill="#1a1b26" stroke="#292e42" stroke-width="2"/>
+<rect x="1" y="14" width="4" height="110" rx="2" fill="url(#a)"/>
+<text x="22" y="34" style="font:700 16px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#7aa2f7">ManangerDish</text>
+<circle cx="356.2" cy="29.5" r="5" fill="#9b6bdf"/>
+<text x="383" y="34" text-anchor="end" style="font:12px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#565f89">C#</text>
+<text x="22" y="62" style="font:13.5px 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" fill="#c0caf5">Real-time table ordering for restaurants,</text>
+<text x="22" y="81" style="font:13.5px 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" fill="#c0caf5">live updates over SignalR.</text>
+<g transform="translate(22,96)"><rect width="101" height="24" rx="12" fill="#9b6bdf" fill-opacity=".14"/><text x="50.5" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#9b6bdf">ASP.NET Core</text></g><g transform="translate(129,96)"><rect width="66" height="24" rx="12" fill="#9b6bdf" fill-opacity=".14"/><text x="33" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#9b6bdf">SignalR</text></g><g transform="translate(201,96)"><rect width="39" height="24" rx="12" fill="#9b6bdf" fill-opacity=".14"/><text x="19.5" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#9b6bdf">JWT</text></g>
+</svg>

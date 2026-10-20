@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="138" viewBox="0 0 405 138" role="img" aria-label="Booking-ReactJS">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#61dafb"/><stop offset="1" stop-color="#61dafb" stop-opacity=".25"/></linearGradient></defs>
+<rect x="1" y="1" width="403" height="136" rx="12" fill="#1a1b26" stroke="#292e42" stroke-width="2"/>
+<rect x="1" y="14" width="4" height="110" rx="2" fill="url(#a)"/>
+<text x="22" y="34" style="font:700 16px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#7aa2f7">Booking-ReactJS</text>
+<circle cx="297" cy="29.5" r="5" fill="#61dafb"/>
+<text x="383" y="34" text-anchor="end" style="font:12px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#565f89">JavaScript</text>
+<text x="22" y="62" style="font:13.5px 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" fill="#c0caf5">Hotel booking landing page with a search</text>
+<text x="22" y="81" style="font:13.5px 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif" fill="#c0caf5">filter and responsive layout.</text>
+<g transform="translate(22,96)"><rect width="53" height="24" rx="12" fill="#61dafb" fill-opacity=".14"/><text x="26.5" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#61dafb">React</text></g><g transform="translate(81,96)"><rect width="46" height="24" rx="12" fill="#61dafb" fill-opacity=".14"/><text x="23" y="16" text-anchor="middle" style="font:11.5px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" fill="#61dafb">SCSS</text></g>
+</svg>
